@@ -33,27 +33,27 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 global.sig = 'https://instagram.com/imleviofc' //Instagram mu
 global.sgh = 'https://github.com/ImleviOfc' //Github mu
 global.swb = '-'
-global.sfb = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
-global.syt = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
-global.syt = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g' //Discord Mu
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.sfb = ''
+global.syt = ''
+global.syt = '-' //YT Mu
+global.sgc = '-' //Group WhatsApp mu
+global.sdc = '-' //Discord Mu
+global.snh = '-' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '085172446692' //Dana
-global.povo = '085172446692' //Ovo
-global.pgopay = '085172446692' //Gopay
-global.ppulsa = '085172446692' //Pulsa 
-global.ppulsa2 = '085172446692' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '089513170718' //Dana
+global.povo = '089513170718' //Ovo
+global.pgopay = '089513170718' //Gopay
+global.ppulsa = '089513180718' //Pulsa 
+global.ppulsa2 = '089513170718' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = '-' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Pulsa:* 085172446692\n│┝‷✧ *Dana:* 085172446692\n│┝‷✧ *Ovo:* 085172446692\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6281255466600' //Nomor Bot mu
-global.nomorown = '6285172446692' //Nomormu
-global.namebot = 'levi' //Nama bot mu
-global.nameown = 'Levi' //Nama mu
+global.nomorbot = '6282118165484' //Nomor Bot mu
+global.nomorown = '089513170728' //Nomormu
+global.namebot = 'Karyoga' //Nama bot mu
+global.nameown = 'EgaKaryoga' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
